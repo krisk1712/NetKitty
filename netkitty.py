@@ -15,7 +15,7 @@ upload_dest = ""
 port = 0
 
 def usage():
-    print ("NetKitty")
+    print "NetKitty"
     print
     print "Usage : netkitty.py -t target_host -p port"
     print "-l --listen                       -listen on [host]:[port] for incoming conncetion"
